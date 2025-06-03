@@ -1,5 +1,9 @@
 # 🚀 Projeto de Algoritmos de Busca e Ordenação
 
+## Integrantes do Grupo
+
+Nomes: Gabriel Henrique Alves Carvalho, Pedro Henrique de Sousa Marques, Samantha Falcão da Cruz, Sofia Araujo Rodrigues e Vitor Cassiano de Souza.
+
 ## Sobre o Projeto
 Este projeto tem como objetivo aplicar algoritmos de busca e ordenação em diferentes contextos, otimizando a recuperação e organização de informações.
 
