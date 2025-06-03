@@ -1,5 +1,3 @@
-### Integrantes do grupo: Gabriel Henrique Alves Carvalho, Pedro Henrique de Sousa Marques, Samantha Falcão da Cruz, Sofia Araujo Rodrigues e Vitor Cassiano de Souza
-
 # 🚀 Projeto de Algoritmos de Busca e Ordenação
 
 ## Sobre o Projeto
