@@ -7,6 +7,10 @@ Nomes: Gabriel Henrique Alves Carvalho, Pedro Henrique de Sousa Marques, Samanth
 ## Sobre o Projeto
 Este projeto tem como objetivo aplicar algoritmos de busca e ordenação em diferentes contextos, otimizando a recuperação e organização de informações.
 
+## Contexto
+
+O problema escolhido para aplicar os algoritmos é a criação de um sistema de gerenciamento de produtos em um e-commerce. O sistema permite que os usuários busquem produtos por nome, categoria ou marca, e que os resultados sejam ordenados por diferentes critérios, como preço ou popularidade.
+
 ## Exemplos Práticos de Uso
 
 ### Exemplo 1: Buscar e ordenar produtos por popularidade
